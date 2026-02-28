@@ -4,16 +4,6 @@
 
 ---
 
-## 📸 Dashboard Preview
-
-### Page 1 — Main Dashboard
-![Main Dashboard](dashboard_main.png)
-
-### Page 2 — Vehicle Records Table
-![Data Table](dashboard_table.png)
-
----
-
 ## 📌 Project Overview
 
 This Power BI dashboard visualizes automotive pricing data and evaluates a machine learning model's ability to predict car MSRP values. It allows users to explore pricing trends by brand, body style, drivetrain, engine aspiration, and performance metrics like horsepower and torque.
