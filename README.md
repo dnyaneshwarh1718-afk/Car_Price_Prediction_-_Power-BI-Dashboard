@@ -102,11 +102,6 @@ The `Car_Data_with_pred.xlsx` file contains both actual and predicted car prices
 - Price distribution by car brand, year, fuel type, and transmission
 - Key metrics and KPIs at a glance
 
-**Dashboard Preview:**
-
-| Page 1 | Page 2 |
-|--------|--------|
-| ![Dashboard Page 1] | ![Dashboard Page 2](Pic%202.PN) |
 
 ---
 
