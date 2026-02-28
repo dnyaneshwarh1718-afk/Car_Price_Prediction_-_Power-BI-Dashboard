@@ -129,8 +129,5 @@ The dataset was preprocessed using **One-Hot Encoding** to convert categorical v
 **Dnyaneshwar H.**  
 [GitHub Profile](https://github.com/dnyaneshwarh1718-afk)
 
----
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
